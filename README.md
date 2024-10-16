@@ -1,0 +1,2 @@
+# rust
+Trainee Rust Language
